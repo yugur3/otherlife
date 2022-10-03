@@ -1,0 +1,4 @@
+4r73f4k7 filter=lfs diff=lfs merge=lfs -text
+Assets/Blender filter=lfs diff=lfs merge=lfs -text
+Files/0001_Landscape.blend filter=lfs diff=lfs merge=lfs -text
+Files/0001_Landscape.blend1 filter=lfs diff=lfs merge=lfs -text
